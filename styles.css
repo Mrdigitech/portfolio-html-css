@@ -160,6 +160,8 @@ h4 {font-family: montserrat;
     padding-bottom: 0px;
     text-decoration: none;
     color: #ffffff;
+    width: 100%;
+    font-size: 1rem;
 }
 
 
@@ -167,13 +169,15 @@ h4 {font-family: montserrat;
     margin-left: 0px;
     margin-top: 20px;
     color: #ffffff;
+    font-size: 1.5
+    rem;
     
 }
 
 @media (max-width: 650px) {
     
     *{width: 100%;}
-    .copyright{font-size: 0.7rem;}
+    .copyright{font-size: 1rem;}
 }
 
    
