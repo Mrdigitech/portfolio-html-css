@@ -111,7 +111,9 @@ h3 {
     color: #11999e;
     margin-left: 50px;
     margin-top: 0;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
+    line-height:2;
+    font-size: 1.4rem;
 }
 
 
@@ -161,7 +163,7 @@ h4 {font-family: montserrat;
     text-decoration: none;
     color: #ffffff;
     width: 100%;
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 
@@ -169,15 +171,14 @@ h4 {font-family: montserrat;
     margin-left: 0px;
     margin-top: 20px;
     color: #ffffff;
-    font-size: 1.5
-    rem;
+    font-size: 1rem;
     
 }
 
 @media (max-width: 650px) {
     
     *{width: 100%;}
-    .copyright{font-size: 1rem;}
+    .copyright{font-size: 0.9rem;}
 }
 
    
